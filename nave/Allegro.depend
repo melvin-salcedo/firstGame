@@ -1,0 +1,252 @@
+# depslib dependency file v1.0
+1343247345 source:c:\users\david\desktop\allegrp\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\david\desktop\allegrp\inicia.h
+
+1355455235 source:c:\users\david\desktop\allegrp\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"inica2.h"
+
+1355455224 source:c:\users\david\desktop\allegrp\inica2.cpp
+	"inica2.h"
+	<allegro.h>
+
+1355455224 c:\users\david\desktop\allegrp\inica2.h
+
+1343247345 source:c:\users\david\downloads\allegrp\allegrp\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\david\downloads\allegrp\allegrp\inicia.h
+
+1343247345 source:c:\users\melvin\desktop\allegro\allegrp\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\melvin\desktop\allegro\allegrp\inicia.h
+
+1386890874 source:c:\users\melvin\desktop\allegro\allegrp\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"inica2.h"
+
+1355451624 c:\users\melvin\desktop\allegro\allegrp\inica2.h
+
+1418048726 source:c:\users\melvin\desktop\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\melvin\desktop\nave\inicia.h
+
+1419902604 source:c:\users\melvin\desktop\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+	"asteroides.h"
+	"bitmap.h"
+	"vida.h"
+
+1355451624 c:\users\melvin\desktop\nave\inica2.h
+
+1343247345 source:c:\users\melvin\desktop\first game nave\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\melvin\desktop\first game nave\nave\inicia.h
+
+1414439739 source:c:\users\melvin\desktop\first game nave\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+
+1414439554 c:\users\melvin\desktop\first game nave\nave\nave.h
+
+1418232686 c:\users\melvin\desktop\nave\nave.h
+	<iostream>
+
+1415398422 c:\users\melvin\desktop\nave\fondos.h
+	<iostream>
+
+1418223122 c:\users\melvin\desktop\nave\balas.h
+	<list>
+
+1415380777 source:c:\users\melvin\desktop\nave\src\bala.cpp
+	"bala.h"
+
+1415380777 c:\users\melvin\desktop\nave\include\bala.h
+
+1343247346 source:d:\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 d:\nave\inicia.h
+
+1416232434 source:d:\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+
+1416232514 d:\nave\nave.h
+	<iostream>
+
+1415398422 d:\nave\fondos.h
+	<iostream>
+
+1416233404 d:\nave\balas.h
+
+1419905671 c:\users\melvin\desktop\nave\asteroides.h
+	<list>
+	<allegro.h>
+
+1418448169 c:\users\melvin\desktop\nave\bitmap.h
+	<allegro.h>
+
+1418242138 c:\users\melvin\desktop\nave\vida.h
+	<iostream>
+
+1418048726 source:g:\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 g:\nave\inicia.h
+
+1418211972 source:g:\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+	"asteroides.h"
+	"bitmap.h"
+	"vida.h"
+
+1417215246 g:\nave\nave.h
+	<iostream>
+
+1415398422 g:\nave\fondos.h
+	<iostream>
+
+1418095352 g:\nave\balas.h
+	<list>
+
+1418211718 g:\nave\asteroides.h
+	<list>
+
+1418164748 g:\nave\bitmap.h
+	<allegro.h>
+
+1418212108 g:\nave\vida.h
+	<iostream>
+
+1418048726 source:c:\users\csunsa020\desktop\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\csunsa020\desktop\nave\inicia.h
+
+1418232734 source:c:\users\csunsa020\desktop\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+	"asteroides.h"
+	"bitmap.h"
+	"vida.h"
+
+1418232685 c:\users\csunsa020\desktop\nave\nave.h
+	<iostream>
+
+1415398422 c:\users\csunsa020\desktop\nave\fondos.h
+	<iostream>
+
+1418223120 c:\users\csunsa020\desktop\nave\balas.h
+	<list>
+
+1418233882 c:\users\csunsa020\desktop\nave\asteroides.h
+	<list>
+	<allegro.h>
+
+1418164748 c:\users\csunsa020\desktop\nave\bitmap.h
+	<allegro.h>
+
+1418231392 c:\users\csunsa020\desktop\nave\vida.h
+	<iostream>
+
+1418048726 source:c:\users\csunsa020\desktop\allegro\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\csunsa020\desktop\allegro\nave\inicia.h
+
+1418241396 source:c:\users\csunsa020\desktop\allegro\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+	"asteroides.h"
+	"bitmap.h"
+	"vida.h"
+
+1418232685 c:\users\csunsa020\desktop\allegro\nave\nave.h
+	<iostream>
+
+1415398422 c:\users\csunsa020\desktop\allegro\nave\fondos.h
+	<iostream>
+
+1418223120 c:\users\csunsa020\desktop\allegro\nave\balas.h
+	<list>
+
+1418234367 c:\users\csunsa020\desktop\allegro\nave\asteroides.h
+	<list>
+	<allegro.h>
+
+1418164748 c:\users\csunsa020\desktop\allegro\nave\bitmap.h
+	<allegro.h>
+
+1418242137 c:\users\csunsa020\desktop\allegro\nave\vida.h
+	<iostream>
+
+1418048726 source:e:\games project\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 e:\games project\nave\inicia.h
+
+1419902604 source:e:\games project\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+	"asteroides.h"
+	"bitmap.h"
+	"vida.h"
+
+1428410399 e:\games project\nave\nave.h
+	<iostream>
+
+1415398422 e:\games project\nave\fondos.h
+	<iostream>
+
+1418223122 e:\games project\nave\balas.h
+	<list>
+
+1419905671 e:\games project\nave\asteroides.h
+	<list>
+	<allegro.h>
+
+1418448169 e:\games project\nave\bitmap.h
+	<allegro.h>
+
+1418242138 e:\games project\nave\vida.h
+	<iostream>
+
