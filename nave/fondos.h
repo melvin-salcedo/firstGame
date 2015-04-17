@@ -18,7 +18,7 @@ void mundo::mover_asteroides(BITMAP*espacio1,BITMAP*pantalla){
                 j=1340;
         }
         especial++;
-        if (especial==60){
+        if (especial==61){
             especial=0;
         }
 }

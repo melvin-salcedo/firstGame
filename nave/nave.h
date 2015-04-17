@@ -3,7 +3,6 @@ using namespace std;
 class NAVE{
     int x,y;
     int posicion;
-
     int ndisparos;
 public:
     NAVE(int _x=610,int _Y=280,int posi=0,int ndi=0):x(_x),y(_Y),posicion(posi),ndisparos(ndi){}

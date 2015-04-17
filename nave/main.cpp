@@ -6,6 +6,7 @@
 #include "asteroides.h"
 #include "bitmap.h"
 #include "vida.h"
+//juego midificado
 int main(){
     inicia_allegro(1340,700);
     inicia_audio(70,70);

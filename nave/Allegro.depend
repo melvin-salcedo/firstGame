@@ -250,3 +250,38 @@
 1418242138 e:\games project\nave\vida.h
 	<iostream>
 
+1418048726 source:c:\users\david\firstgame\nave\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\david\firstgame\nave\inicia.h
+
+1419902604 source:c:\users\david\firstgame\nave\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"nave.h"
+	"fondos.h"
+	"balas.h"
+	"asteroides.h"
+	"bitmap.h"
+	"vida.h"
+
+1429276220 c:\users\david\firstgame\nave\nave.h
+	<iostream>
+
+1429276220 c:\users\david\firstgame\nave\fondos.h
+	<iostream>
+
+1418223122 c:\users\david\firstgame\nave\balas.h
+	<list>
+
+1419905671 c:\users\david\firstgame\nave\asteroides.h
+	<list>
+	<allegro.h>
+
+1418448169 c:\users\david\firstgame\nave\bitmap.h
+	<allegro.h>
+
+1418242138 c:\users\david\firstgame\nave\vida.h
+	<iostream>
+
